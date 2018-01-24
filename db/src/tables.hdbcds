@@ -4,4 +4,7 @@ context tables {
 	entity table_1 {
 	key column1: Integer;
 	};
+	entity table_2 {
+	key column1: Integer;
+	};
 };
