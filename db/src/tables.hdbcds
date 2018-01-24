@@ -1,0 +1,7 @@
+namespace hana_dep.db;
+
+context tables {
+	entity table_1 {
+	key column1: Integer;
+	};
+};
